@@ -1,12 +1,12 @@
 {
-  "name": "rest",
+  "name": "restful-node",
   "version": "1.0.0",
-  "description": "",
+  "description": "API Restful construida com Node.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Matheus Pessoa",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.9.0",
